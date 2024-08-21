@@ -30,8 +30,8 @@ These can be modified in the docker-compose.yml file or passed as environment va
 1. ### Clone the Repository
 
 ```
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/hafizmuhammadfarooq786/ocloud-solutions-backend.git
+cd ocloud-solutions-backend.git
 ```
 
 2. ### Build and Start the Docker Containers
