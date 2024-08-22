@@ -31,7 +31,13 @@ These can be modified in the docker-compose.yml file or passed as environment va
 
 ```
 git clone https://github.com/hafizmuhammadfarooq786/ocloud-solutions-backend.git
-cd ocloud-solutions-backend.git
+cd ocloud-solutions-backend
+```
+
+Install Packages
+
+```
+npm install || yarn install || pnpm install
 ```
 
 2. ### Build and Start the Docker Containers
